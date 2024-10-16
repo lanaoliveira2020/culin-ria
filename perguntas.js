@@ -1,7 +1,7 @@
 criaCartao(
     'Culinária',
-    'Qual o melhor prato brasileiro?',
-    'É a feijoada'
+    'Melhor sobremesa?',
+    'açaí'
 )
 
 criaCartao(
