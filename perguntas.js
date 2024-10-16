@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Culinária',
-    'doce que foi idealizado por brasileiros?',
+    'Doce que foi idealizado por brasileiros?',
     'O brigadeiro'
 )
 
